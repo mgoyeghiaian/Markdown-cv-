@@ -1,4 +1,4 @@
-<img src="./Img/Img.jpeg"/><br><br><br>
+<img align="right" width="12%" src="./Img/Img.jpeg"/><br><br><br>
 
 # Mgo Yeghiaian
 
